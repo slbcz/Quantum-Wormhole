@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://repository-images.githubusercontent.com/469527545/70f88413-935c-4708-8058-68f1d8312f2e" alt="Logo">
 </p>
@@ -11,19 +12,13 @@
   
 </p>
 
-## 这是啥?
+## What is this?
+AdhesionTek Quantum Wormhole (ATQW) is a free open source implementation of [Ocean Peace Quantum Wormhole](https://en.oceanpeace.com.cn/static/product-detail.html) with added features including 热水器.
 
-AdhesionTek Quantum Wormhole (ATQW) 是免费开源版本的 [Ocean Peace Quantum Wormhole](https://en.oceanpeace.com.cn/static/product-detail.html) 并且添加了热水器等功能。
+## Try it now!
+- Online: [Link](http://quantumwormhole.adhesiontek.com/)
+- Install: This is a PWA.
+- Downloads: [Releases](https://github.com/AdhesionTek/Quantum-Wormhole/releases)
 
-## 想要用用看吗？
-
-- 在线使用: [Link](https://qw.adhesiontek.com/)
-- 离线使用: PWA烂掉了，而且我不想修复它。
-- 下载: [Releases](https://github.com/AdhesionTek/Quantum-Wormhole/releases)
-
-## 了解更多！
-Check out our [wiki](https://github.com/AdhesionTek/Quantum-Wormhole/wiki)
-
-## 为什么要Fork?
-
-因为Adhesiontek的原版网站已经关闭。顺便一提，我很闲。
+## Wanna learn more?
+Check out our [wiki](https://github.com/AdhesionTek/Quantum-Wormhole/wiki).

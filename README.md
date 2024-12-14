@@ -17,7 +17,7 @@ AdhesionTek Quantum Wormhole (ATQW) 是免费开源版本的 [Ocean Peace Quantu
 
 ## 想要用用看吗？
 
-- 在线使用: [Link](https://qw.adhesiontek.com/)
+- 在线使用: [Link](slbcz.github.io/quantum-wormhole)
 - 离线使用: PWA烂掉了，而且我不想修复它。
 - 下载: [Releases](https://github.com/AdhesionTek/Quantum-Wormhole/releases)
 
